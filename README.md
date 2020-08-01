@@ -10,6 +10,5 @@
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/65118675/89093835-7441f680-d3db-11ea-92ae-31619d23c545.png)
 
-![Banking.zip](https://github.com/krishnaddy/basic-bank-app/files/5009827/Banking.zip)
 
 
